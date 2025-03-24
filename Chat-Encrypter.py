@@ -162,15 +162,4 @@ input_entry.focus()
 
 root.mainloop()
 
-
-def test():
-    import sys
-
-    try:
-        root.mainloop()
-    except Exception as e:
-        print(f"Error: {e}")
-        input("Press Enter to exit...")
-        sys.exit(1)
-
-test()
+#Note: the first encrypt should be the key between you and the one your chatting with and you both should type the same key and the first encrypt command (Have fun)
