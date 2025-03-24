@@ -161,5 +161,5 @@ style.map("TButton", foreground=[('pressed', 'white'), ('active', 'white')], bac
 input_entry.focus()
 
 root.mainloop()
-
+#The secret key file should be installed on both devices and for another chat with other person change smth in the security key and put it on both devices 
 #Note: the first encrypt should be the key between you and the one your chatting with and you both should type the same key and the first encrypt command (Have fun)
